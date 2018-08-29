@@ -90,13 +90,13 @@ This repository is going to learning *Go*.
             ```
 * Installation for Windows
     1. Open the installer you downloaded and click `Next` to the next step
-        ![](https://oranwind.s3.amazonaws.com/2016/Mar/go1-1458116508829.PNG)
+    ![](https://oranwind.s3.amazonaws.com/2016/Mar/go1-1458116508829.PNG)
     2. Click `I accept the terms in the License Aggreement` and click `Next`
-        ![](https://oranwind.s3.amazonaws.com/2016/Mar/go2-1458116514461.PNG)
+    ![](https://oranwind.s3.amazonaws.com/2016/Mar/go2-1458116514461.PNG)
     3. Use default setting for destination folder
-        ![](https://oranwind.s3.amazonaws.com/2016/Mar/go3-1458116520826.PNG)
+    ![](https://oranwind.s3.amazonaws.com/2016/Mar/go3-1458116520826.PNG)
     4. Click `Install` for installation
-        ![](https://oranwind.s3.amazonaws.com/2016/Mar/go4-1458116526904.PNG)
+    ![](https://oranwind.s3.amazonaws.com/2016/Mar/go4-1458116526904.PNG)
     5. Set the `PATH` environment variable
         1. Go to your computer’s *Control Panel*, then to *System and Security* > *System* > *Advanced system settings*, and on the left-hand pane click the Advanced tab
         2. Click on *Environmental Variables* on the bottom-right-hand side
